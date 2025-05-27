@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Setiap hari jam 00:00 UTC
+    - cron: "0 0 * * *"
   push:
     branches:
       - main
@@ -12,12 +12,19 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@master
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate snake animation
+        uses: Platane/snk@master
         with:
           github_user_name: YammD123
           outputs: |
-            ./dist/pacman-contribution-graph.svg
-            ./dist/pacman-contribution-graph-dark.svg
+            dist/pacman-contribution-graph.svg
+            dist/pacman-contribution-graph-dark.svg
+
+      - name: List dist contents
+        run: ls -la dist
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v2.1.3
