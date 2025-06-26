@@ -1,17 +1,53 @@
+<!-- README for Siam Al Sobari -->
 
-<div align="center">
-<img src="./image/1.jpg"/>
-</div>
-<div align="center">
-<img src="./image/2.jpg"/>
-</div>
+<h1 align="center">🧑‍💻 Siam Al Sobari</h1>
+<p align="center">"Biar apa? Biarin"</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=435&lines=Fullstack+Web+Developer;16+y.o+from+Indonesia;Next.js+%2B+NestJS+%2B+SvelteKit;Focused+on+Backend" alt="Typing SVG" />
+</p>
 
-<!-- ![](https://nirzak-streak-stats.vercel.app/?user=YammD123&theme=dark&hide_border=false)<br/> 
+---
 
-[![](https://visitcount.itsvg.in/api?id=YammD123&icon=0&color=0)](https://visitcount.itsvg.in) -->
-<!-- <br clear="both"> -->
-</div>
+## 📦 About Me
 
-###
+```json
+{
+  "name": "Siam Al Sobari",
+  "age": 16,
+  "location": "Indonesia",
+  "status": "Pelajar yang kehilangan arah",
+  "goal": "Ingin menjadi manusia dengan kekuatan ultraman 😈👿👿👿👿",
+  "said_today": "Tolong-tolong ada serigala di sini."
+}
+```
+
+## 🚀 Skills
+
+```json
+{
+  "skills": {
+    "language": ["Javascript", "Typescript"],
+    "frameworks": [
+      {
+        "backend": ["NestJS"],
+        "frontend": [
+            {
+                "NextJs":{
+                    "router":"App-Router",
+                    "css":"Tailwind-Css",
+                    "component":"Shadcn-Ui"
+                },
+                "SvelteKit":{
+                    "css":"Tailwind-Css",
+                    "component":"Shadcn-Svelte"
+                }
+            }
+        ]
+      }
+    ],
+    "data_base":["Mysql","PostgreSql"],
+    "tools":["Primsa","Supabase","NeonDb","GitHub"]
+  }
+}
+```
