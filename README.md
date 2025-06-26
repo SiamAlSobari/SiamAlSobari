@@ -27,27 +27,23 @@
 ```json
 {
   "skills": {
-    "language": ["Javascript", "Typescript"],
-    "frameworks": [
-      {
-        "backend": ["NestJS"],
-        "frontend": [
-            {
-                "NextJs":{
-                    "router":"App-Router",
-                    "css":"Tailwind-Css",
-                    "component":"Shadcn-Ui"
-                },
-                "SvelteKit":{
-                    "css":"Tailwind-Css",
-                    "component":"Shadcn-Svelte"
-                }
-            }
-        ]
+    "languages": ["JavaScript", "TypeScript"],
+    "frameworks": {
+      "backend": ["NestJS"],
+      "frontend": {
+        "Next.js": {
+          "router": "App Router",
+          "css": "Tailwind CSS",
+          "component": "ShadCN UI"
+        },
+        "SvelteKit": {
+          "css": "Tailwind CSS",
+          "component": "ShadCN Svelte"
+        }
       }
-    ],
-    "data_base":["Mysql","PostgreSql"],
-    "tools":["Primsa","Supabase","NeonDb","GitHub"]
+    },
+    "databases": ["MySQL", "PostgreSQL"],
+    "tools": ["Prisma", "Supabase", "NeonDB", "GitHub"]
   }
 }
 ```
