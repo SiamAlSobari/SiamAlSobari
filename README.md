@@ -1,5 +1,3 @@
-<!-- README for Siam Al Sobari -->
-
 <h1 align="center">🧑‍💻 Siam Al Sobari</h1>
 <p align="center">"Biar apa? Biarin"</p>
 
@@ -46,4 +44,5 @@
     "tools": ["Prisma", "Supabase", "NeonDB", "GitHub"]
   }
 }
+
 ```
