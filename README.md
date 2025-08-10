@@ -5,9 +5,8 @@
 ```json
 {
   "name": "Siam Al Sobari",
-  "age": 16,
-  "location": "Indonesia",
   "status": "Pelajar yang kehilangan arah",
+  "iUse":"TypeScript"
 }
 ```
 
@@ -15,10 +14,10 @@
 
 ```json
 {
-  "languages": ["JavaScript", "TypeScript"],
-  "frameworks": ["Svelte", "SvelteKit", "NestJs"],
+  "languages": [ "TypeScript"],
+  "frameworks": ["Svelte", "SvelteKit", "AdonisJs"],
   "css": ["Tailwind CSS"],
-  "components": ["ShadCN Svelte"],
+  "components": ["ShadCN-Svelte"],
   "databases": ["MySQL", "PostgreSQL"],
   "tools": ["Prisma", "Supabase", "NeonDB", "GitHub"]
 }
