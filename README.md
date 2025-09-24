@@ -1,6 +1,3 @@
-# 💫 About Me:
-# 👋 Hi, I'm Siam Al Sobari <br><br>🚀 A passionate **Fullstack Developer** who loves building modern web applications.  <br>💡 Currently focusing on **NestJS, Next.js, Vue, SvelteKit, and Qwik**.  <br>🖥️ I’m especially **focused on Backend Development**, mastering scalable APIs, databases, and system architecture.  <br><br>---<br><br>## 🧑‍💻 About Me  <br>- 🔭 I’m currently working on: **E-commerce, Absensi, Streaming Platform, and Social Media Projects**  <br>- 🌱 I’m learning: **Backend with NestJS + Prisma, Frontend with React/Vue/Svelte/Qwik**  <br>- ⚡ Fun fact: *I believe “Mental Gaspol Fullstack 2025, Duit Cair Tanpa Botak”* 💪  <br>- 🎯 Goal: Become a strong **Backend Engineer** while mastering **Fullstack Development**  <br><br>---<br>
-
 
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@yammd_) 
