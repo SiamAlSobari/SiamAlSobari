@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Siam Al Sobai</h1>
+<!-- <h1 align="center">Hi 👋, I'm Siam Al Sobai</h1>
 <h3 align="center">🚀 A Passionate Backend Developer</h3>
 
----
+--- -->
 
 ## 💻 Tech Stack
 
@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
-
+<!-- 
 ---
 
 ## 📊 GitHub Stats
@@ -54,4 +54,4 @@
 
 <p align="center">
   🔥 "Code is like humor. When you have to explain it, it’s bad."
-</p>
+</p> -->
