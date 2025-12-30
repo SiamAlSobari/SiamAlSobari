@@ -37,10 +37,11 @@
 </p>
 
 <!-- <p align="center">
-  <!-- Databases -->
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p> -->
+
+
 <!-- 
 ---
 
