@@ -1,19 +1,12 @@
-<div align="center">
+<p align="center">
+  <a href="https://github.com/SiamAlSobari">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=SiamAlSobari&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub WidgetBox" />
+  </a>
+</p>
 
-<h1>Siam Al Sobari</h1>
+<h3 align="center">Tools & Frameworks</h3>
 
-<p>Full Stack Developer</p>
-
-<a href="https://github.com/SiamAlSobari">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=SiamAlSobari&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub Stats" />
-</a>
-
-<br/>
-<br/>
-
-## Tech Stack
-
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/-Hono-E36002?style=flat-square&logo=hono&logoColor=white" alt="Hono" />
   <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
@@ -21,8 +14,6 @@
   <img src="https://img.shields.io/badge/-TanStack-FF4154?style=flat-square&logo=react-query&logoColor=white" alt="TanStack" />
 </p>
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=SiamAlSobari&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats" height="165" />
-
-</div>
+<!-- <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SiamAlSobari&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" />
+</p> -->
