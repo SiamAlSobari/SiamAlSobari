@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/SiamAlSobari">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=SiamAlSobari&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub WidgetBox" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiamAlSobari&layout=compact&theme=react-dark&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
