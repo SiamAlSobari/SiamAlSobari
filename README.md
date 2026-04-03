@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://github.com/SiamAlSobari">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiamAlSobari&layout=compact&theme=react-dark&hide_border=true" alt="Top Languages" />
+    <img src="https://streak-stats.demolab.com?user=SiamAlSobari&theme=react-dark&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
