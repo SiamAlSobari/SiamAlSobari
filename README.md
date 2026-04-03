@@ -7,11 +7,15 @@
 <h3 align="center">Tools & Frameworks</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Hono-E36002?style=flat-square&logo=hono&logoColor=white" alt="Hono" />
-  <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/-TanStack-FF4154?style=flat-square&logo=react-query&logoColor=white" alt="TanStack" />
+  <img src="https://cdn.simpleicons.org/hono/E36002" width="40" height="40" alt="Hono" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nestjs/E0234E" width="40" height="40" alt="NestJS" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/flutter/02569B" width="40" height="40" alt="Flutter" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" width="40" height="40" alt="Vue.js" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/reactquery/FF4154" width="40" height="40" alt="TanStack" />
 </p>
 
 <!-- <p align="center">
