@@ -1,37 +1,37 @@
-<div align="center">
+## 👨‍💻 `SiamAlSobari.ts`
 
 ```typescript
-const developer = {
-  name: "Siam Al Sobari",
-  role: "Software Engineer",
-  mission: "Crafting modern, scalable, and impactful applications.",
-  skills: {
-    backend: ["NestJS", "Hono"],
-    frontend: ["Vue.js", "TanStack"],
-    mobile: ["Flutter"],
-  },
-  sayHi: function () {
-    return `Hello world! I'm ${this.name}.`;
-  },
-};
+class Developer {
+  private readonly name: string;
+  private readonly role: string;
 
-console.log(developer.sayHi());
+  constructor() {
+    this.name = "Siam Al Sobari";
+    this.role = "Software Engineer";
+  }
+
+  public getProfile() {
+    return {
+      name: this.name,
+      role: this.role,
+      mission: "Crafting modern, scalable, and impactful applications. 🚀",
+      techStack: {
+        backend: ["NestJS", "Hono", "Node.js"],
+        frontend: ["Vue.js", "TanStack Query", "TailwindCSS"],
+        mobile: ["Flutter", "Dart"],
+        database: ["PostgreSQL", "MySQL", "MongoDB"],
+      },
+      currentFocus: "Building clean architecture and optimizing performance.",
+    };
+  }
+
+  public sayHi(): void {
+    console.log(`Hello world! I'm ${this.name}.`);
+    console.log("Feel free to check out my repositories below!");
+  }
+}
+
+const me = new Developer();
+me.sayHi();
+console.table(me.getProfile());
 ```
-
-<br />
-
-<h3>🛠️ Tech Stack</h3>
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/hono/E36002" width="40" height="40" alt="Hono" title="Hono" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nestjs/E0234E" width="40" height="40" alt="NestJS" title="NestJS" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/flutter/02569B" width="40" height="40" alt="Flutter" title="Flutter" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" width="40" height="40" alt="Vue.js" title="Vue.js" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/reactquery/FF4154" width="40" height="40" alt="TanStack" title="TanStack" />
-</p>
-
-</div>
