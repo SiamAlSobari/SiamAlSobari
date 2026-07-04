@@ -3,5 +3,5 @@
 </p>
 
 <h1 align="center" style="font-family: 'Comic Sans MS', cursive; color: #FF0000; background: #00FF00; padding: 25px; text-shadow: 4px 4px 0 #0000FF;">
-  🚨🚨🚨 Y̷O̸U̷ A̸R̵E̶ S̷U̵S̷ 🚨🚨🚨
+  🚨🚨🚨 YOU ARE SUS 🚨🚨🚨
 </h1>
